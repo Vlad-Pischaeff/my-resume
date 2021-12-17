@@ -9,3 +9,5 @@
 - [Slide show 1](https://vlad-pischaeff.github.io/image-effect-1/)
 
 - [Slide show 2](https://vlad-pischaeff.github.io/image-effect-2/)
+
+- [Smooth scroll with parallax](https://vlad-pischaeff.github.io/smooth-scroll-parallax/)
