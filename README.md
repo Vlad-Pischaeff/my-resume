@@ -3,3 +3,5 @@
 - test task. A one-page application for editing routes. The Yandex maps library is used.
 	- open [description](https://github.com/Vlad-Pischaeff/my-resume/blob/main/qt-js.pdf)
 	- [application](https://vlad-pischaeff.github.io/ymaps-react-ee/)
+
+- Smooth-scrolling test [page](https://vlad-pischaeff.github.io/smooth-scroll/)
