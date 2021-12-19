@@ -8,4 +8,6 @@
 
 - [Slide show 1](https://vlad-pischaeff.github.io/image-effect-1/)
 
+- [Three.JS test show](https://vlad-pischaeff.github.io/image-effect-2/)
+
 - [Smooth scroll with parallax](https://vlad-pischaeff.github.io/smooth-scroll-parallax/)
